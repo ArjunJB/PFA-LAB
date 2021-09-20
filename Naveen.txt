@@ -1,3 +1,6 @@
 You can change the maximum number of times to compile the document, and disable the automatic installation of missing packages. See ?tinytex::latexmk for details.
 
 The three function pdflatex(), xelatex(), and lualatex() are wrapper functions based on latexmk(). For example, pdflatex() is basically latexmk(engine = 'pdflatex', emulation = TRUE).
+
+
+hi all
